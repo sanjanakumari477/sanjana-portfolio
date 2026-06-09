@@ -4,13 +4,15 @@ Welcome to my personal portfolio website! This portfolio showcases my skills, pr
 
 🔗 Live Website: https://sanjanakumari477.github.io/sanjana-portfolio/
 
----
+----
+
 
 ## 👩‍💻 About Me
 
 Hello! I'm **Sanjana Kumari**, a BCA graduate passionate about technology, data analytics, and software development. I enjoy building user-friendly web applications and analyzing data to discover meaningful insights.
 
----
+----
+
 
 ## 🚀 Features
 
@@ -21,7 +23,8 @@ Hello! I'm **Sanjana Kumari**, a BCA graduate passionate about technology, data 
 - Contact Information
 - Clean and Modern User Interface
 
----
+----
+
 
 ## 🛠️ Technologies Used
 
@@ -34,7 +37,8 @@ Hello! I'm **Sanjana Kumari**, a BCA graduate passionate about technology, data 
 - Git
 - GitHub Pages
 
----
+----
+
 
 ## 💡 Skills
 
@@ -46,7 +50,8 @@ Hello! I'm **Sanjana Kumari**, a BCA graduate passionate about technology, data 
 - Data Visualization
 - Problem Solving
 
----
+----
+
 
 ## 📂 Projects
 
