@@ -56,7 +56,8 @@ A Java-based banking application developed using Java Swing and SQL for managing
 ### Portfolio Website
 A personal portfolio website showcasing my skills, projects, and professional profile.
 
----
+----
+
 
 ## 🎓 Education
 
@@ -69,7 +70,8 @@ Focused on:
 - Software Development
 - Data Analytics
 
----
+----
+
 
 ## 📞 Contact
 
@@ -81,7 +83,8 @@ Focused on:
 
 🔗 LinkedIn: https://www.linkedin.com/in/sanjana-kumari-72b338299/
 
----
+----
+
 
 ## 📸 Preview
 
@@ -89,7 +92,8 @@ Visit the live portfolio:
 
 👉 https://sanjanakumari477.github.io/sanjana-portfolio/
 
----
+----
+
 
 ## ⭐ Future Improvements
 
@@ -99,6 +103,6 @@ Visit the live portfolio:
 - Interactive Contact Form
 - Project Filtering System
 
----
+----
 
 If you like this portfolio, feel free to ⭐ the repository.
